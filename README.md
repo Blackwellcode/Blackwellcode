@@ -1,4 +1,4 @@
-### Pierre · Blackwellcode · Graz, Austria
+### Blackwell Code · Graz, Austria
 
 I build software that runs on hardware I operate myself: Linux servers, Windows workstations and game clients.
 Each project ships with a README that someone else can follow without asking me, and with CI and tests wherever code runs unattended.
